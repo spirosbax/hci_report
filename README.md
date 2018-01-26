@@ -60,6 +60,16 @@
 
 ## ΕΝΔΕΙΚΤΙΚΕΣ ΟΘΟΝΕΣ
 
+### HOMEPAGE
+![](https://github.com/spirosbax/hci_report/blob/master/assets/allmoney.jpg?raw=true)
+### PUBLIC-PRIVATE MONEY SPLIT
+![](https://github.com/spirosbax/hci_report/blob/master/assets/publicprivate.jpg?raw=true)
+### PARTY SPLIT
+![](https://github.com/spirosbax/hci_report/blob/master/assets/partysplit.jpg?raw=true)
+### DONOR TYPE
+![](https://github.com/spirosbax/hci_report/blob/master/assets/donortype.jpg?raw=true)
+### SPLIT BY AMOUNT
+![](https://github.com/spirosbax/hci_report/blob/master/assets/amount.jpg?raw=true)
 
 ## ΣΥΜΠΕΡΑΣΜΑΤΑ
 Η εργασία αυτή αποτελεί μοναδική ευκαιρία για κάποιον που θέλει να μάθει την πολύ δημοφιλής βιβλιοθήκη οπτικοποίησης δεδομένων D3js καθώς και να αποκτήσει βασικές γνώσεις HTML, CSS και javascript. Το αποτέλεσμα αυτής της εργασίας δεν αποτελεί μία ολοκληρωμένη οπτικοποίηση δεδομένων αλλά ένα πολύ καλό παράδειγμα που κάλιστα μπορεί να αποτελέσει πρότυπο πάνω στο οποίο μπορούν προστεθουν επειπλέον λειτουργίες και γραφήματα D3js.
